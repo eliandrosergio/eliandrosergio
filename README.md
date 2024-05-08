@@ -1,0 +1,7 @@
+- 👋 Olá, sou @eliandro42
+- 👀 Estou interessado em desenvolvimento de software, video-jogos e cibersegurança.
+- 🌱 Atualmente estou aprendendo sobre desenvolvimento web e desenvolvimento de jogos RPG.
+- 💞️ Procuro colaborar em todo tipo de desenvolvimento web e de videojogos, amo RPG.
+- 📫 Aqui fica a minha caixa postal eliandrosergio42@gmail.com para qualquer coisa.
+- 😄 Pronomes: Ele, dele.
+- ⚡ Curiosidades sobre mim: Sou fá da Marvel, meu time é o Barcelona e amo RPG (já tinha dito isso)!
