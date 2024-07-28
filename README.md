@@ -1,4 +1,4 @@
-- 👋 Olá, sou @eliandro42
+- 👋 Olá, sou @eliandrosergio
 - 👀 Estou interessado em desenvolvimento de software, video-jogos e cibersegurança.
 - 🌱 Atualmente estou aprendendo sobre desenvolvimento web e desenvolvimento de jogos RPG.
 - 💞️ Procuro colaborar em todo tipo de desenvolvimento web e de videojogos, amo RPG.
