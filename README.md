@@ -3,10 +3,10 @@
 <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400" alt="Welcome GIF">
 
 ## 👨‍💻 Sobre mim
-- 💻 Focado em **cibersegurança** e **desenvolvimento web**.
-- 🚀 Atualmente explorando **Node.js**, **MongoDB** e **MySQL**.
-- 🛡️ Apaixonado por proteger sistemas e criar experiências incríveis.
+- 🚀 Atualmente explorando **C++**.
+- 💻 Focado em **cibersegurança** e **desenvolvimento de jogos**.
 - 🌱 Sempre aprendendo e buscando novas oportunidades para crescer.
+- 🛡️ Apaixonado por proteger sistemas contra falhas e criar experiências incríveis.
 
 ---
 
