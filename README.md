@@ -3,7 +3,7 @@
 
 ## 👨‍💻 Sobre mim
 - 🚀 Atualmente explorando **C/C++**, **Golang** e **TypeScript**.
-- 💻 Focado em **cibersegurança** e **desenvolvimento de jogos**.
+- 💻 Focado em **cibersegurança** e **desenvolvimento backend**.
 - 🌱 Sempre aprendendo e buscando novas oportunidades para crescer.
 - 🛡️ Apaixonado por proteger sistemas contra falhas e criar experiências incríveis.
 
