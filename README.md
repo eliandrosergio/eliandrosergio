@@ -1,9 +1,11 @@
-# 🌟 Olá, eu sou o Eliandro! 🚀
+# 🌟 Olá, eu sou o Eliandro Sérgio! 🚀
+
 <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400" alt="Welcome GIF">
 
 ## 👨‍💻 Sobre mim
 - 🚀 Atualmente explorando **C/C++**, **Golang** e **TypeScript**.
 - 💻 Focado em **cibersegurança** e **desenvolvimento backend**.
+- 🏢 Fundador da **NGOLABYTE TECHNOLOGIES SERVICES**, uma software house angolana.
 - 🌱 Sempre aprendendo e buscando novas oportunidades para crescer.
 - 🛡️ Apaixonado por proteger sistemas contra falhas e criar experiências incríveis.
 
@@ -16,7 +18,20 @@
 
 ---
 
+## 🚀 Projetos & Empresa
+
+### 🏢 NGOLABYTE TECHNOLOGIES SERVICES
+Minha software house, focada em soluções tecnológicas para o mercado angolano.
+🔗 [ngolabyte.ao](https://ngolabyte.ao)
+
+### 💱 TaxaAO
+API que agrega as taxas de câmbio dos bancos angolanos, ajudando a encontrar a melhor taxa num só lugar. Projeto concluído (mas sempre aberto a melhorias) — o repositório não é público, mas o site está no ar.
+🔗 [taxa.ao](https://taxa.ao)
+
+---
+
 ## 🛠️ Minhas Habilidades
+
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -39,7 +54,7 @@
 ---
 
 ## 🌐 Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eliandro-faustino/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eliandrosergio/)
 [![Linktree](https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/eliandrosergio)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eliandrosergio@zohomail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/eliandrosergio)
