@@ -16,7 +16,7 @@
 ---
 
 ## ⚡ Fun facts about me
-- 🦸‍♂️ Marvel fan (Captain America is my favorite 🛡️).
+- 🦸‍♂️ Marvel fan (Iron Man is my favorite 🦾).
 - ⚽ Barcelona supporter — *Visca Barça!* 🔵🔴
 - 🎮 RPGs have had my heart forever. 💜
 
@@ -40,7 +40,6 @@ REST API that aggregates exchange rates from Angola's main banks and the BNA (Na
 
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -58,7 +57,6 @@ REST API that aggregates exchange rates from Angola's main banks and the BNA (Na
 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 **Tools**
